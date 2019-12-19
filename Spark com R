@@ -1,3 +1,7 @@
+Ter estar Instalado O Sparklyr é um pacote que fornece uma interface, entre o R e o Apache Spark
 install.packages('sparklyr').
 library(sparklyr).
 install.packages('dplyr')library(dplyr).
+
+Instalando O Spark no R.
+sparklyr::spark_install(version = "2.2.0")

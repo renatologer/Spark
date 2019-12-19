@@ -1,1 +1,2 @@
 install.packages('sparklyr')
+library(sparklyr)

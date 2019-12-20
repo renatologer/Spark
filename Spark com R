@@ -5,3 +5,4 @@ install.packages('dplyr')library(dplyr).
 
 Instalando O Spark no R.
 sparklyr::spark_install(version = "2.2.0")
+Install -c Conda-forge Findspark
